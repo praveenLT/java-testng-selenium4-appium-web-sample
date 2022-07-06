@@ -1,4 +1,4 @@
-# Sample automation test in Java-TestNG-appium for LambdaTest
+# Sample automation test in Java-TestNG-Appium for LambdaTest
 
 ### Environment Setup
 
