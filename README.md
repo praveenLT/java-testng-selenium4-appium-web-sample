@@ -1,4 +1,4 @@
-# Java TestNG Selenium 
+# Sample automation test in Java-TestNG-appium for LambdaTest
 
 ### Environment Setup
 
